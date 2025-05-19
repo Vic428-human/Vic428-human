@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Jasper, a Taiwan Web Developer 👋🏼:
 
-🛜 最近在學習 Tanstack Query[點我 👨🏼‍🎓 ](https://github.com/Vic428-human/weather-app)👨🏼‍💻 working as a web developer since 2022
+🛜 最近在學習 Tanstack Query[點我 👨🏼‍🎓 ](https://github.com/Vic428-human/weather-app)
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
