@@ -29,9 +29,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vic428-human&show_icons=true&locale=en" alt="Vic428-human" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vic428-human&" alt="Vic428-human" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vic428-human&show_icons=true&locale=en&layout=compact" alt="Vic428-human" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vic428-human" alt="Vic428-human" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
