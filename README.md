@@ -60,8 +60,8 @@
 ### commit 牆不會馬上刷新
 
 備注:
-聽說是每 12 小時刷新一次，實際 commit 紀錄要看最下面，github 原始的 commit 牆
-這裡可以查看到實際的貢獻數，貌似 github 上是有刷新的，可能這個 snk 套件沒有即時刷新
+每 12 小時刷新一次，實際 commit 紀錄要看最下面，github 原始的 commit 牆，
+這裡可以查看到實際的貢獻數，貌似 github 上是有刷新的，可能這個 snk 套件沒有即時刷新。
 https://github-contributions-api.jogruber.de/v4/Vic428-human
 
 <picture>
