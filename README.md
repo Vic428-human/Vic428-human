@@ -57,7 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-### 不確定為什麼有時候有更新有時候沒有
+### commit 牆不會馬上刷新
+
+備注:
+聽說是每 12 小時刷新一次，實際 commit 紀錄要看最下面，github 原始的 commit 牆
+這裡可以查看到實際的貢獻數，貌似 github 上是有刷新的，可能這個 snk 套件沒有即時刷新
+https://github-contributions-api.jogruber.de/v4/Vic428-human
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
