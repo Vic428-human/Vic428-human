@@ -57,11 +57,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
-### commit 牆不會馬上刷新
+### 貪吃蛇 commit牆抓取的是當前repo的commit的rolling year.
 
 備注:
-每 12 小時刷新一次，實際 commit 紀錄要看最下面，github 原始的 commit 牆，
-這裡可以查看到實際的貢獻數，貌似 github 上是有刷新的，可能這個 snk 套件沒有即時刷新。
+通常情況下，晚上發github action，過一段時間會自動刷新今日的commit牆，
+如果沒有即時更新，還是可以參考repo最下方，沒有snack svg的原先commit牆。
 https://github-contributions-api.jogruber.de/v4/Vic428-human
 
 <picture>
