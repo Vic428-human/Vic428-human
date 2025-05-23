@@ -4,8 +4,9 @@
 
 <h2>🚀 最近在學習 </h2>
 
+🛜 [訂閱追蹤的 API 架構規劃項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
 🛜 [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
-🛜 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app)
+🛜 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
