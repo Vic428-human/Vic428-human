@@ -4,7 +4,8 @@
 
 <h2>🚀 最近在學習 </h2>
 
-🛜 [訂閱追蹤的 API 架構規劃項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
+🛜 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
+🛜 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
 🛜 [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
 🛜 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
@@ -63,7 +64,6 @@
 備注:
 通常情況下，晚上發github action，過一段時間會自動刷新今日的commit牆，
 如果沒有即時更新，還是可以參考repo最下方，沒有snack svg的原先commit牆。
-https://github-contributions-api.jogruber.de/v4/Vic428-human
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
