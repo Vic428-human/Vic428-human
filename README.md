@@ -4,10 +4,11 @@
 
 <h2>🚀 最近在學習 </h2>
 
-🛜 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
-🛜 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
-🛜 [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
-🛜 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
+- 🦄 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
+- 🦉 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
+- 🧩 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
+- 🌈 [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
+- 🐳 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
