@@ -13,7 +13,7 @@
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=express,git,apple,docker,firebase,github,bash,css,discord," />
   </a>
 </p>
 ### 貪吃蛇 commit牆抓取的是當前repo的commit的rolling year.
