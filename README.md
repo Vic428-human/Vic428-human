@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# 雲者，遨遊四方而不居; 峰者，卓然特立而不椅 👋🏼:
+# 雲者，遨遊四方而不居; 峰者，卓然特立而不倚 👋🏼:
 
 <h2>🚀 最近在學習 </h2>
 
