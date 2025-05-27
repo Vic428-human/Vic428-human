@@ -16,10 +16,10 @@
     <img src="https://skillicons.dev/icons?i=react,express,git,nodejs,docker,firebase,github,bash,css,less" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,gitlab,regex,html,npm,js,windows,jest,jquery,linux" />
+    <img src="https://skillicons.dev/icons?i=umi,redux,gitlab,regex,html,npm,js,windows,jest,jquery,linux" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,mac,ts,pnpm,obsidian,notion,vscode,mysql,materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,apple,ts,pnpm,obsidian,notion,vscode,mysql,materialui" />
   </a>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb," />
