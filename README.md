@@ -13,16 +13,16 @@
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,git,nodejs,docker,firebase,github,bash,css,less" />
+    <img src="https://skillicons.dev/icons?i=ts,react,express,git,nodejs,docker,firebase,github,bash,less" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=umi,redux,gitlab,regex,html,npm,js,windows,jest,jquery,linux" />
+    <img src="https://skillicons.dev/icons?i=redux,gitlab,regex,html,npm,js,windows,jest,jquery,linux" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,apple,ts,pnpm,obsidian,notion,vscode,mysql,materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,apple,css,pnpm,obsidian,notion,vscode,mysql,sqlite,materialui" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb," />
+    <img src="https://skillicons.dev/icons?i=yarn,postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb," />
   </a>
 </p>
 ### 貪吃蛇 commit牆抓取的是當前repo的commit的rolling year.
