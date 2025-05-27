@@ -25,12 +25,7 @@
     <img src="https://skillicons.dev/icons?i=yarn,postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb,apple" />
   </a>
 </p>
-### 貪吃蛇 commit牆抓取的是當前repo的commit的rolling year.
-
-備注:
-通常情況下，晚上發github action，過一段時間會自動刷新今日的commit牆，
-如果沒有即時更新，還是可以參考repo最下方，沒有snack svg的原先commit牆。
-
+<h2>🚀 學習歷程 </h2>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
