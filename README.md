@@ -19,10 +19,10 @@
     <img src="https://skillicons.dev/icons?i=redux,gitlab,regex,html,npm,js,windows,jest,jquery,linux" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,apple,css,pnpm,obsidian,notion,vscode,mysql,sqlite,materialui" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,css,pnpm,obsidian,notion,vscode,mysql,sqlite,materialui" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=yarn,postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb," />
+    <img src="https://skillicons.dev/icons?i=yarn,postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb,apple" />
   </a>
 </p>
 ### 貪吃蛇 commit牆抓取的是當前repo的commit的rolling year.
