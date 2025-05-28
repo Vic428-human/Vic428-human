@@ -41,26 +41,28 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=donut)](https://github.com/Vic428-human/github-readme-stats)
 
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <!-- 左邊區域 -->
-      <h2>🛠️ 我的項目</h2>
-      <ul>
-        <li>🤖 <a href="https://github.com/Vic428-human/telegram-trading-bot ">Telegram Bot</a></li>
-        <li>📁 <a href="https://github.com/Vic428-human/big-react ">React Monorepo 架構</a></li>
-        <li>🔄 <a href="https://github.com/Vic428-human/scrape-flow ">Scrape Flow 項目</a></li>
-        <li>🔔 <a href="https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture ">API 架構規劃</a></li>
-        <li>☀️ <a href="https://github.com/Vic428-human/weather-app ">TanStack Query + Typescript + TailwindCSS 項目</a></li>
-        <li>📊 <a href="https://github.com/Vic428-human/expense-tracker-app ">React Native + Firebase 項目</a></li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <!-- 右邊區域 -->
-      <h2>🧮 技術棧比例</h2>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=donut)](https://github.com/Vic428-human/github-readme-stats)
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+  <!-- 左邊區域 -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>🛠️ 我的項目</h2>
+    <ul>
+      <li>🤖 <a href="https://github.com/Vic428-human/telegram-trading-bot ">Telegram Bot</a></li>
+      <li>📁 <a href="https://github.com/Vic428-human/big-react ">React Monorepo 架構</a></li>
+      <li>🔄 <a href="https://github.com/Vic428-human/scrape-flow ">Scrape Flow 項目</a></li>
+      <li>🔔 <a href="https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture ">API 架構規劃</a></li>
+      <li>☀️ <a href="https://github.com/Vic428-human/weather-app ">TanStack Query + Typescript + TailwindCSS 項目</a></li>
+      <li>📊 <a href="https://github.com/Vic428-human/expense-tracker-app ">React Native + Firebase 項目</a></li>
+    </ul>
+  </div>
+
+  <!-- 右邊區域 -->
+  <div style="flex: 1; min-width: 300px;">
+    <h2>🧮 技術棧比例</h2>
+    <a href="https://github.com/Vic428-human/github-readme-stats ">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human " alt="Top Langs" />
+    </a>
+  </div>
+</div>
 
 
