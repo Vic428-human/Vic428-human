@@ -4,13 +4,12 @@
 
 <h2>🚀 最近在學習 </h2>
 
-[Telegram](https://t.me/your_username ) ![Telegram](https://simpleicons.org/icons/telegram.svg?size=24x24 )
--  [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
-- 🦄 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
-- 🦉 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
-- 🧩 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
-- 🌈 [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
-- 🐳 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
+- 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
+- 📁 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
+- 🔄 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
+- 🔔 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
+- ☀️ [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
+- 📊 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center">
