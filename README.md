@@ -2,6 +2,14 @@
 
 # 雲者，遨遊四方而不居; 峰者，卓然特立而不倚 👋🏼:
 
+
+<h2>🚀 學習歷程 </h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
+</picture>
+
 <h2>🚀 最近在學習 </h2>
 
 - 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
@@ -26,12 +34,7 @@
     <img src="https://skillicons.dev/icons?i=yarn,postman,powershell,nginx,sass,stackoverflow,styledcomponents,webpack,mongodb,apple" />
   </a>
 </p>
-<h2>🚀 學習歷程 </h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
-</picture>
+
 
 <h2>🚀 其他 </h2>
 
