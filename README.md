@@ -20,7 +20,7 @@
 - ☀️ [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
 - 📊 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
-## 🌌 技海浮沉，皆是我舟
+## 🌊 技海浮沉，皆是我舟
 >  積土成山，風雲興焉；積水成淵，蛟龍生焉。
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +37,7 @@
   </a>
 </p>
 
-
 ## 🤔 我邊樣 tech 揀得多啲？
->  積土成山，風雲興焉；積水成淵，蛟龍生焉。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=donut)](https://github.com/Vic428-human/github-readme-stats)
 
 
