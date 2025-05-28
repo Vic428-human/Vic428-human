@@ -33,4 +33,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
+<h2>🚀 其他 </h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human)](https://github.com/Vic428-human/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+
