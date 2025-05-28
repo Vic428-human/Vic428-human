@@ -34,7 +34,8 @@
 </picture>
 
 <h2>🚀 其他 </h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human)](https://github.com/Vic428-human/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=donut)](https://github.com/Vic428-human/github-readme-stats)
+
+
 
