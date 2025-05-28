@@ -4,7 +4,7 @@
 
 <h2>🚀 最近在學習 </h2>
 
-[Telegram](https://t.me/your_username ) ![Telegram](https://simpleicons.org/icons/telegram.svg?size=32 )
+[Telegram](https://t.me/your_username ) ![Telegram](https://simpleicons.org/icons/telegram.svg?size=24x24 )
 -  [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
 - 🦄 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
 - 🦉 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
