@@ -10,8 +10,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
-<h2>🚀 最近在學習 </h2>
 
+## 💻 我的全端開發實驗室 
+>  種一棵樹最好的時間是十年前，其次是現在。
 - 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
 - 📁 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
 - 🔄 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
@@ -19,7 +20,8 @@
 - ☀️ [TanStack Query + Typescript + TailwindCSS 項目](https://github.com/Vic428-human/weather-app)
 - 📊 [React Native + Cloudinary + Firebase + Typescript 項目](https://github.com/Vic428-human/expense-tracker-app) 
 
-<h2>🚀 Languages and Tools I Use</h2>
+## 🌌 技海浮沉，皆是我舟
+>  積土成山，風雲興焉；積水成淵，蛟龍生焉。
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,react,express,git,nodejs,docker,firebase,github,bash,less" />
@@ -36,33 +38,10 @@
 </p>
 
 
-<h2>🚀 其他 </h2>
-
+## 🤔 我邊樣 tech 揀得多啲？
+>  積土成山，風雲興焉；積水成淵，蛟龍生焉。
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=donut)](https://github.com/Vic428-human/github-readme-stats)
 
 
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
-  <!-- 左邊區域 -->
-  <div style="flex: 1; min-width: 300px;">
-    <h2>🛠️ 我的項目</h2>
-    <ul>
-      <li>🤖 <a href="https://github.com/Vic428-human/telegram-trading-bot ">Telegram Bot</a></li>
-      <li>📁 <a href="https://github.com/Vic428-human/big-react ">React Monorepo 架構</a></li>
-      <li>🔄 <a href="https://github.com/Vic428-human/scrape-flow ">Scrape Flow 項目</a></li>
-      <li>🔔 <a href="https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture ">API 架構規劃</a></li>
-      <li>☀️ <a href="https://github.com/Vic428-human/weather-app ">TanStack Query + Typescript + TailwindCSS 項目</a></li>
-      <li>📊 <a href="https://github.com/Vic428-human/expense-tracker-app ">React Native + Firebase 項目</a></li>
-    </ul>
-  </div>
-
-  <!-- 右邊區域 -->
-  <div style="flex: 1; min-width: 300px;">
-    <h2>🧮 技術棧比例</h2>
-    <a href="https://github.com/Vic428-human/github-readme-stats ">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human " alt="Top Langs" />
-    </a>
-  </div>
-</div>
 
 
