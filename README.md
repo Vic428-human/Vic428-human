@@ -2,8 +2,8 @@
 
 # 雲者，遨遊四方而不居; 峰者，卓然特立而不倚 👋🏼:
 
-
-<h2>🚀 學習歷程 </h2>
+## 🌌 Commit 軌跡銀河
+> 每一次 Commit 都是我在程式宇宙中留下的星痕。
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
