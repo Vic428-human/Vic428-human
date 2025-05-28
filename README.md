@@ -4,6 +4,8 @@
 
 <h2>🚀 最近在學習 </h2>
 
+![Telegram](https://simpleicons.org/icons/telegram.svg )
+-  [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
 - 🦄 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
 - 🦉 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
 - 🧩 [訂閱追蹤的 API 架構規劃 項目](https://github.com/Vic428-human/subscription-tracker-nodejs-api-architecture)
