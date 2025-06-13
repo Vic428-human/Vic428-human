@@ -13,6 +13,8 @@
 
 ## 💻 我的全端開發實驗室 
 >  種一棵樹最好的時間是十年前，其次是現在。
+>
+- 🤖 [websocket backend side project](https://github.com/Vic428-human/live-cursors-app)
 - 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
 - 📁 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
 - 🔄 [Scrape flow 項目](https://github.com/Vic428-human/scrape-flow)
