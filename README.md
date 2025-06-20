@@ -14,7 +14,7 @@
 ## 💻 我的全端開發實驗室 
 >  種一棵樹最好的時間是十年前，其次是現在。
 
-- 💫 [幣種下單時的motion動態特效](https://github.com/Vic428-human/motion-example
+- 💫 [幣種下單時的motion動態特效](https://github.com/Vic428-human/motion-example)
 - ⚛️ [websocket backend side project](https://github.com/Vic428-human/live-cursors-app)
 - 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
 - 📁 [react monorepo 大型項目架子](https://github.com/Vic428-human/big-react)
