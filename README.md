@@ -14,6 +14,7 @@
 ## 💻 我的全端開發實驗室 
 >  種一棵樹最好的時間是十年前，其次是現在。
 
+- 🔐 [AntD 全棧後台系統](https://github.com/Vic428-human/antd5-dashboard-practice)
 - 💫 [幣種下單時的motion動態特效](https://github.com/Vic428-human/motion-example)
 - ⚛️ [websocket backend side project](https://github.com/Vic428-human/live-cursors-app)
 - 🤖 [telegram bot](https://github.com/Vic428-human/telegram-trading-bot)
