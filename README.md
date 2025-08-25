@@ -1,5 +1,3 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
-
 # 雲者，遨遊四方而不居; 峰者，卓然特立而不倚 👋🏼:
 
 ## 🌌 Commit 軌跡銀河
