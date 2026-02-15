@@ -6,7 +6,7 @@
 </picture>
 
 
-## 💻 偶爾有空回頭複習點基礎
+## 💻 專案集
 
 - 🔐 [Postgres+Go+Gin+React交易所(無Clerk版本)](https://github.com/Vic428-human/marketplace-withoutClerk)
 - 🤖 [websocket+go+react的多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room)
