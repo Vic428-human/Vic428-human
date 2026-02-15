@@ -8,6 +8,7 @@
 
 ## 💻 偶爾有空回頭複習點基礎
 
+- 🔐 [Postgres+Go+Gin+React交易所(無Clerk版本)](https://github.com/Vic428-human/marketplace-withoutClerk)
 - 🤖 [websocket+go+react的多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room)
 - 🔐 [Go+SSE+go template接單系統](https://github.com/Vic428-human/go-pizza-order-tracker)
 - 🔐 [AntD 全棧後台系統](https://github.com/Vic428-human/antd5-dashboard-practice)
