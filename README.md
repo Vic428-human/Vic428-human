@@ -12,9 +12,18 @@
 ```
 線上遊戲交易所，本人主要在維護的專案
 ```
-- 🤖 [websocket+go+react的多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room) => 已完成原型，並於2026/2月份移植到 交易所的專案中，未來可能為追加上傳貼圖功能。
-- 🔐 [Go+SSE+SQLite+go template接單系統](https://github.com/Vic428-human/go-pizza-order-tracker) =>  第一次學習Go語言時的練習用專案。
-- 💫 [Gin+PostgreSQL+JWT獨立環境單獨測試API](https://github.com/Vic428-human/todoapp-jwt) => 模擬API，不想污染其他主要專案時，會優先在這測試，例如阻擋贓資料的功能、CRUD..等功能，未來在製作pagination功能時會再回頭維護此專案。
+- 🤖 [websocket+go+react的多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room)
+```
+已完成原型，並於2026/2月份移植到 交易所的專案中，未來可能會追加上傳貼圖功能。
+```
+- 🔐 [Go+SSE+SQLite+go template接單系統](https://github.com/Vic428-human/go-pizza-order-tracker)
+```
+平常有玩線上遊戲，其中一項功能是製作藥水接單，主要做來給我自己方便紀錄製作藥水時，接了那些客戶的訂單，短時間內不會繼續維護此專案，重心都會放在交易所。
+```
+- 💫 [Gin+PostgreSQL+JWT獨立環境單獨測試API](https://github.com/Vic428-human/todoapp-jwt)
+```
+模擬API，不想污染其他主要專案時，會優先在這測試，例如阻擋贓資料的功能、CRUD..等功能，未來在製作pagination功能時會再回頭維護此專案。
+```
 - ⚛️ [React+nodejs+postgres+express+clerk交易所](https://github.com/Vic428-human/social-media-marketplace)
 ```
 使用Clerk完成金流、會員系統，任何前端的功能都會優先在這個專案實踐，像廣告彈窗倒數、紅包外觀的UI設計、旋轉木馬風格的交易所競拍區...等
