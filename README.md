@@ -22,7 +22,7 @@
 ```
 - 💫 [Gin+PostgreSQL+JWT獨立環境單獨測試API](https://github.com/Vic428-human/todoapp-jwt)
 ```
-模擬API，不想污染其他主要專案時，會優先在這測試，例如阻擋贓資料的功能、CRUD..等功能，未來在製作pagination功能時會再回頭維護此專案。
+模擬API，不想污染其他主要專案時，會優先在這測試，此專案用於規劃 JWT + GIN + GOLANG + PostgreSQL 登入、註冊、圖片上傳、分頁功能。
 ```
 - ⚛️ [React+nodejs+postgres+express+clerk交易所](https://github.com/Vic428-human/social-media-marketplace)
 ```
