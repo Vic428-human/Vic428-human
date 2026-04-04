@@ -12,6 +12,12 @@
 ```
 線上遊戲交易所，本人主要在維護的專案
 ```
+
+- 🔐 [Nextjs+Typescript+Auth.js+Drizzle拍賣場](https://github.com/Vic428-human/next14-ts-auction-app)
+```
+為社區住戶打造一個安全、便利的二手物品交易平台，讓住戶可以輕鬆刊登自家閒置物品，其他住戶可透過競標機制進行交易。
+```
+
 - 🤖 [websocket+go+react的多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room)
 ```
 已完成原型，並於2026/2月份移植到 交易所的專案中，未來可能會追加上傳貼圖功能。
