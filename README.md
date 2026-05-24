@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
-# 本人未來主力開發項目
+# 目前主要開發項目
 ## 專案名稱: ME (專案開始時間點: 2026/05月)
 
 ```
