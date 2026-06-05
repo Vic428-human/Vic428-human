@@ -54,23 +54,3 @@
 | [多人聊天室](https://github.com/Vic428-human/websocket-golang-chat-room) | `WebSocket` `Go` `React` | 即時通訊原型 |
 | [遊戲接單系統](https://github.com/Vic428-human/go-pizza-order-tracker) | `Go` `SSE` `SQLite` `Go Template` | 遊戲藥水製作訂單管理 |
 | [Go API 模擬](https://github.com/Vic428-human/todoapp-jwt) | `Gin` `PostgreSQL` `JWT` | JWT 認證、圖片上傳、分頁功能驗證 |
-
-### 2025
-
-
----
-
-## 📊 GitHub 統計
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vic428-human&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-
-
-
-
-
-
