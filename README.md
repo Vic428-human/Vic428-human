@@ -5,29 +5,81 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
-# 目前主要開發項目
-## 專案名稱: ME (專案開始時間點: 2026/05月)
 
-```
-ME 是一個長期的個人數位孿生（Digital Twin）與人格蒸餾計畫。本專案的核心目標非單純的 AI 聊天機器人，而是旨在透過多模態資料採集、自然語言處理（NLP）與 3D 渲染引擎，在虛擬實境（VR）中構建一個具備高度主觀意識、個人語氣與情感連結的「數位分身 (NPC)」。
+# 🌌 大家好
 
-本專案致力於打破物理時間的限制，讓這份由「我」蒸餾而出的意識，未來能在親手建構的虛擬世界中，持續陪伴家人互動、對話並共同探索空間。
-```
+&gt; 全端開發者，目前專注於 .NET 生態與現代 Web 技術，正透過 Side Project 探索 AI 與 VR 的交會點。
 
-- [Line機器人](https://github.com/Vic428-human/Line-bot/tree/main)
-```
-用途: 用來蒸餾出自己的前置作業，可以想成是這個機器人是方便我日常紀錄關於我的資訊
-```
+---
 
-- [VR世界 Unity](https://github.com/Vic428-human/RuneTownVRPrototype)
-```
-VR虛擬世界場景建構中...
-```
+## 🛠️ 技術棧
 
-- [蒸餾版的我(手機App版)]
-```
-專案還尚未建立，目前還在 Line機器人 的前期製作中，你可以預想這個App將來會做到AI講話的時候，會是基於我本人的語音聲線。
-```
+**正職主力**
+- `C#` `WinForms` `.NET WebAPI` — 企業級應用開發與系統整合
+
+**前端 & 全端**
+- `React` (5年+) `TypeScript` `Next.js` `TailwindCSS` `TanStack Query`
+
+**後端 & 資料**
+- `Go` `Gin` `Node.js` `Express` `WebSocket` `SSE`
+- `PostgreSQL` `Oracle` `SQLite` `Drizzle ORM` `Realm`
+
+**AI / 新領域探索**
+- `Python` `NLP` `Unity` `VR 開發` `Line Bot 蒸餾`
+
+---
+
+## 🌟 核心專案：ME（數位孿生計畫）
+
+`2026/05 — 進行中`
+
+&gt; 一個長期的個人數位孿生與人格蒸餾計畫。目標是透過多模態資料採集、NLP 與 3D 渲染引擎，在 VR 中構建具備主觀意識與情感連結的「數位分身」。
+
+| 階段 | 技術 | 狀態 |
+|------|------|------|
+| 資料採集 | Line Bot（Python、Superbase、railway）| 🔄 開發中 |
+| 虛擬世界 | Unity VR 場景建構 | 🔄 開發中 |
+| 語音分身 | 手機 App（AI 語音合成）| 📋 規劃中 |
+
+---
+
+## 📂 其他專案
+
+### 2026
+
+| 專案 | 技術 | 說明 |
+|------|------|------|
+| 🔐 線上遊戲交易所 | `Go` `Gin` `React` `PostgreSQL` |  |
+| 🔐 社區拍賣場 | `Next.js` `TypeScript` `Auth.js` `Drizzle` `Knock` | 住戶二手物品競標平台 |
+| 🤖 多人聊天室 | `WebSocket` `Go` `React` | 即時通訊原型，已整合至交易所 |
+| 🔐 遊戲接單系統 | `Go` `SSE` `SQLite` `Go Template` | 遊戲藥水製作訂單管理 |
+| 💫 API 獨立測試環境 | `Gin` `PostgreSQL` `JWT` | JWT 認證、圖片上傳、分頁功能驗證 |
+| ⚛️ React 交易所原型 | `React` `Node.js` `Express` `Clerk` | 前端功能實驗場（廣告彈窗、紅包 UI、旋轉木馬競拍）|
+
+### 2025
+
+`React Native` `Cloudinary` `Firebase` `TanStack Query` `Ant Design` `Telegram Bot` `WebSocket` `Monorepo` `Scrape Flow` `訂閱追蹤 API`
+
+---
+
+## 📊 GitHub 統計
+
+![Vic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vic428-human&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic428-human&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 聯絡方式
+
+- GitHub: [@Vic428-human](https://github.com/Vic428-human)
+- （可加上 Email / LinkedIn / 部落格）
+
+---
+
+&gt; *「技術是工具，解決問題才是目的。」*
+
+
 
 ## ------- 其他專案 ---------
 ### 2026
