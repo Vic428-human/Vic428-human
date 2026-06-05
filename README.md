@@ -12,13 +12,13 @@
 
 ---
 
-## 🛠️ 技術棧
+## 🛠️ 具備技術棧
 
 **目前正職**
 - `C#` `WinForms` `.NET WebAPI` — 企業級應用開發與系統整合
 
 **過往前端**
-- `React` (5年+) `TypeScript` `Next.js` `TailwindCSS` `TanStack Query`
+- `React` `TypeScript` `Next.js` `TailwindCSS` `TanStack Query` `React Native` `Ethers.js` `Safe Global Protocol Kit` `Redux` `AntD` `Umi`
 
 **過往後端**
 - `Go` `Gin` `Node.js` `Express` `WebSocket` `SSE`
