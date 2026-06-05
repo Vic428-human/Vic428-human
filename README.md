@@ -35,10 +35,10 @@
 
 &gt; 一個長期的個人數位孿生與人格蒸餾計畫。目標是透過多模態資料採集、NLP 與 3D 渲染引擎，在 VR 中構建具備主觀意識與情感連結的「數位分身」。
 
-| 階段 | 技術 | 狀態 |
+| 專案 | 技術 | 狀態 |
 |------|------|------|
-| 資料採集 | Line Bot（Python、Superbase、railway）| 🔄 開發中 |
-| 虛擬世界 | Unity VR 場景建構 | 🔄 開發中 |
+| [Line Bot](https://github.com/Vic428-human/Line-bot) | Python、Superbase、railway| 🔄 開發中 |
+| [VR世界](https://github.com/Vic428-human/RuneTownVRPrototype) | Unity VR | 🔄 開發中 |
 | 語音分身 | 手機 App（AI 語音合成）| 📋 規劃中 |
 
 ---
