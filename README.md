@@ -5,7 +5,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Vic428-human/Vic428-human/output/github-snake.svg" />
 </picture>
 
-# Hi, I'm Chiao Kai 👋
+# Hi, I'm Kai 👋
 
 **Software Engineer | Full-stack Development**
 
